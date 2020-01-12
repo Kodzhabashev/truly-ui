@@ -87,7 +87,7 @@
     "@angular/cli": "~8.0.3",
     "@angular/compiler-cli": "^8.0.2",
     "@angular/language-service": "^8.0.2",
-    "@babel/core": "^7.5.5",
+    "@babel/core": "^7.8.0",
     "@storybook/addon-actions": "^5.1.9",
     "@storybook/addon-backgrounds": "^5.1.9",
     "@storybook/addon-centered": "^5.1.9",
